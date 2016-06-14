@@ -1,4 +1,4 @@
 # POKEMON VOTOS
 
 #### Descripción
-__votOS es un pequeña aplicación web con herramientas como React.js, Node.js, MongoDB y D3. 
+votOS es un pequeña aplicación web con herramientas como React.js, Node.js, MongoDB y D3. 
