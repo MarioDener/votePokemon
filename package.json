@@ -1,0 +1,26 @@
+{
+  "name": "votospokemon",
+  "version": "1.0.0",
+  "description": "Proyecto de votos para pokemons",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-session": "^2.0.0-alpha.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "socket.io": "^1.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "mongodb",
+    "reactj",
+    "nodejs"
+  ],
+  "author": "codemario",
+  "license": "ISC"
+}
