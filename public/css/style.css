@@ -4,5 +4,25 @@
   padding: 0;
 }
 body {
-  background: #eae1e1;
+  background: #f1f1f1;
+}
+.App {
+  display: block;
+}
+.App .App-title {
+  text-align: center;
+}
+.App__Body {
+  display: flex;
+  width: 100%;
+}
+.App__Body .Avatars {
+  position: relative;
+  padding: 50px 10px;
+  width: 50%;
+}
+.App__Body .Results {
+  position: relative;
+  padding: 50px 10px;
+  width: 50%;
 }

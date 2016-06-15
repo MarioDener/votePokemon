@@ -24,6 +24,5 @@ app.use('*',function (req,res) {
     	"title":"404 - votePokemon",
     	"uri":"404"
     };
-    res.status(404).render(__dirname+'/view/templates/default/index.ejs',{datos:data});    
-	// res.status(404).send('Sorry cant find that!');
+    res.status(404).render(__dirname+'/view/templates/default/index.ejs',{datos:data});
 })
