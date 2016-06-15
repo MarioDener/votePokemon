@@ -5,6 +5,11 @@
 		</div>		
 		<div class="Content_body">
 			
+			<%if(datos["uri"]=="success"){%>
+				<div id="app"></div>
+			<%}else{%>
+				<h2><%=datos["uri"]%></h2>
+			<%}%>
 		</div>
 		<div class="Content_footer"></div>
 	</div>

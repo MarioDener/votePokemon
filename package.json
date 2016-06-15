@@ -5,12 +5,21 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
     "body-parser": "^1.15.1",
+    "browserify": "^13.0.1",
     "cookie-session": "^2.0.0-alpha.1",
     "ejs": "^2.4.2",
     "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.1.0",
+    "gulp-stylus": "^2.4.0",
     "http": "0.0.0",
-    "socket.io": "^1.4.6"
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "socket.io": "^1.4.6",
+    "vinyl-source-stream": "^1.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
